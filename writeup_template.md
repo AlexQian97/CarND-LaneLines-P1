@@ -7,7 +7,7 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./examples/grayscale.jpg "Grayscale"
+[image1]: ./final_image.png "Final Image"
 
 ---
 
@@ -35,7 +35,7 @@ My pipeline consisted of 8 steps.
 
 In order to draw a single line on the left and right lanes, I did not modify the draw_lines() function but passed the end points of each line to this function.
 
-If you'd like to include images to show how the pipeline works, here is how to include an image: 
+The final output of the test image:
 
 ![alt text][image1]
 
